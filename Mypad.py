@@ -21,6 +21,11 @@ file = tk.Menu(main_menu, tearoff=False)   # upar ki setting one
 # file icons
 new_icon = tk.PhotoImage(file='icons2/new.png') 
 open_icon = tk.PhotoImage(file='icons2/open.png') 
+
+
+
+
+
 save_icon = tk.PhotoImage(file='icons2/save.png') 
 save_as_icon = tk.PhotoImage(file='icons2/save_as.png') 
 exit_icon = tk.PhotoImage(file='icons2/exit.png') 
